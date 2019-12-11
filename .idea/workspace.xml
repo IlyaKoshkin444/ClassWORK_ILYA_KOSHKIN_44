@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e43283f1-ba77-4ccc-b9da-083a3b34b1fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UqT0MxB4UO7LY0CBTeolv5uDUB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.FirstTest">
+    <configuration name="FirstTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FirstTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstTest.openChromeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FirstTest.openChromeTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FirstTest.openWikipediaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;FirstTest.openWikipediaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FirstTest" />
+        <item itemvalue="Gradle.FirstTest.openWikipediaTest" />
+        <item itemvalue="Gradle.FirstTest.openChromeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e43283f1-ba77-4ccc-b9da-083a3b34b1fa" name="Default Changelist" comment="" />
+      <created>1576082901172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576082901172</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="103" key="#Console" timestamp="1576088750420">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="103" key="#Console/0.23.1440.827@0.23.1440.827" timestamp="1576088750420" />
+    <state x="320" y="103" key="#Project_Structure" timestamp="1576083995396">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="320" y="103" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1576083995396" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1576090063107">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1576090063107" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1576090063106">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1576090063106" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1576090063106">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1576090063106" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1576090063107">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1576090063107" />
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom" timestamp="1576090062930">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1576090062930" />
+    <state width="1398" height="265" key="GridCell.Tab.1.center" timestamp="1576090062929">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1576090062929" />
+    <state width="1398" height="265" key="GridCell.Tab.1.left" timestamp="1576090062929">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1576090062929" />
+    <state width="1398" height="265" key="GridCell.Tab.1.right" timestamp="1576090062930">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="265" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1576090062930" />
+    <state x="208" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1576083916112">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="208" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1576083916112" />
+    <state x="100" y="123" width="1240" height="627" key="dock-window-1" timestamp="1576088762050">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="100" y="123" width="1240" height="627" key="dock-window-1/0.23.1440.827@0.23.1440.827" timestamp="1576088762050" />
+    <state x="100" y="123" width="1240" height="627" key="dock-window-2" timestamp="1576088855234">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="100" y="123" width="1240" height="627" key="dock-window-2/0.23.1440.827@0.23.1440.827" timestamp="1576088855234" />
+  </component>
+</project>
